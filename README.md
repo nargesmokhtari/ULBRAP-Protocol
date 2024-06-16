@@ -5,7 +5,7 @@ An IoT-based supply chain system integrates various components, including RFID t
 RFID security research is currently a significant focus globally, with numerous analysts dedicated to it. The adoption of RFID technology is gradually rising in the intelligence era. Consequently, various studies have expanded RFID applications in line with current social development and proposed security enhancement solutions. However, prevalent security threats, such as brute force attacks, remain significant.
 
 ## The primary contribution of this study may be summed up as follows:
-- Security evaluation of ULBRAP protocol and prove its vulnerability against desynchronization and traceability attacks.
+- Security evaluation of ULBRAP protocol by Sanjeev Kumar et al. and prove its vulnerability against desynchronization and traceability attacks.
 -  Practical implementation of the attack method to prove the functionality of the attack method.
 -  Introduce a secure authentication protocol that is suitable for lightweight IoT devices in 5G communication networks to solve ULBRAP issues.
 
