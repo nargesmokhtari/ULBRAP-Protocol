@@ -1,4 +1,4 @@
-#Traceability in Cybersecurity
+#Traceability attack
 #The process of identifying, capturing, and maintaining the records of all activities related to a particular event or transaction.
 #In ULBRAP Protocol, The adversary could trace the result of XOR-ed identifiers of the tag (IDNT) 
 #and the supply chain node (IDNS) by eavesdropping on the messages sent in two sessions.
