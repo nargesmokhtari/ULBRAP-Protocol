@@ -18,5 +18,8 @@ RFID security research is currently a significant focus globally, with numerous 
 </div>
 
 <div align="center">
-    <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="700">
+    <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
 </div>
+
+A video demonstrating the attack and the process of finding the session key is available at this [link](https://drive.google.com/file/d/1pns3RpqtFBVC2AzzYCEh7WSZFBS97YhP/view?usp=sharing).
+
