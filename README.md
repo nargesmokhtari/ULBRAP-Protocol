@@ -36,8 +36,25 @@ The repository is organized as follows:
 
 
 ### [Code for each node](Code%20for%20each%20node)
+- **[reader.ipynb](Code%20for%20each%20node/reader.py)**: Description of what node1.py does.
+- **[supply.ipynb](Code%20for%20each%20node/supply.py)**: Description of what node2.py does.
+- **[tag.ipynb](Code%20for%20each%20node/tag.py)**: Description of what node3.py does.
 
-## The primary contribution of this study may be summed up as follows:
+
+### [Images](Images)
+This directory holds image files used within the project, such as diagrams, charts, or any other visual aids.
+
+image1.png: Description or purpose of image1.png.
+image2.jpg: Description or purpose of image2.jpg.
+
+### [attack_ulbraps_text.py](attack_ulbraps_text.py)
+This code demonstrates secret disclosure attacks within an acceptable complexity threshold to retrieve the session key (TKST). As discussed in the paper, if the balance amount (BalN) is a secret parameter and represents a unique value for the target Tag, the ULBRAP protocol is vulnerable to desynchronization attacks. Consequently, in this implementation attack, we assume that the BalN is known within the network, highlighting the protocol's susceptibility to a secret disclosure attack.
+
+### [traceability_ulbraps.py](traceability_ulbraps.py)
+The process of identifying, capturing, and maintaining the records of all activities related to a particular event or transaction. In ULBRAP Protocol, The adversary could trace the result of XOR-ed identifiers of the tag (IDNT) and the supply chain node (IDNS) by eavesdropping on the messages sent in two sessions. MESG1 and MESG2 allow the attacker to obtain 161 candidate values for the result of XORing IDNT and IDNS. In the second session, with different timestamps and random values but the same identifiers for the Tag and Supply chain, we again have 161 possible candidates for the result of XOR-ed identifiers of the tag (IDNT) and the supply chain node (IDNS). By checking the intersection of these two lists, we can determine the actual value of the result of XOR-ed IDNT and IDNS.
+
+## Contributing
+
 - Security evaluation of ULBRAP protocol by Sanjeev Kumar et al. and prove its vulnerability against desynchronization and traceability attacks.
 -  Practical implementation of the attack method to prove the functionality of the attack method.
 -  Introduce a secure authentication protocol that is suitable for lightweight IoT devices in 5G communication networks to solve ULBRAP issues.
@@ -50,5 +67,6 @@ The repository is organized as follows:
     <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
 </div>
 
+## Video
 A video demonstrating the attack and the process of finding the session key is available at this [link](https://drive.google.com/file/d/1pns3RpqtFBVC2AzzYCEh7WSZFBS97YhP/view?usp=sharing).
 
