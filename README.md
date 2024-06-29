@@ -42,10 +42,18 @@ The repository is organized as follows:
 
 
 ### [Images](Images)
-This directory holds image files used within the project, such as diagrams, charts, or any other visual aids.
+This directory holds image files used within the project.
 
-image1.png: Description or purpose of image1.png.
-image2.jpg: Description or purpose of image2.jpg.
+- **[IoT-based Supply Chain System.jpg](Images/IoT-based-Supply-Chain-System.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
+- **[Protocol Messages.jpg](Images/Protocol-Messages.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
+<div align="center">
+    <img src="./Images/Protocol Messages.jpg" alt="Protocol Messages" width="700">
+</div>
+
+- **[Overall Attack Sketch.jpg](Images/Overall-Attack-Sketch.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
+<div align="center">
+    <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
+</div>
 
 ### [attack_ulbraps_text.py](attack_ulbraps_text.py)
 This code demonstrates secret disclosure attacks within an acceptable complexity threshold to retrieve the session key (TKST). As discussed in the paper, if the balance amount (BalN) is a secret parameter and represents a unique value for the target Tag, the ULBRAP protocol is vulnerable to desynchronization attacks. Consequently, in this implementation attack, we assume that the BalN is known within the network, highlighting the protocol's susceptibility to a secret disclosure attack.
