@@ -67,14 +67,6 @@ The process of identifying, capturing, and maintaining the records of all activi
 -  Practical implementation of the attack method to prove the functionality of the attack method.
 -  Introduce a secure authentication protocol that is suitable for lightweight IoT devices in 5G communication networks to solve ULBRAP issues.
 
-<div align="center">
-    <img src="./Images/Protocol Messages.jpg" alt="Protocol Messages" width="700">
-</div>
-
-<div align="center">
-    <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
-</div>
-
 ## Video
 A video demonstrating the attack and the process of finding the session key is available at this [link](https://drive.google.com/file/d/1pns3RpqtFBVC2AzzYCEh7WSZFBS97YhP/view?usp=sharing).
 
