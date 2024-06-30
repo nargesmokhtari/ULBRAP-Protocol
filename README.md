@@ -45,13 +45,13 @@ The repository is organized as follows:
 ### [Images](Images)
 This directory holds image files used within the project.
 
-- **[IoT-based Supply Chain System.jpg](Images/IoT-based-Supply-Chain-System.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
+- **[IoT-based Supply Chain System.jpg](Images/IoT-based-Supply-Chain-System.jpg)**: An IoT-based supply chain system integrates components: RFID tags, readers, sensors, and communication networks.
 - **[Protocol Messages.jpg](Images/Protocol-Messages.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
 <div align="center">
     <img src="./Images/Protocol Messages.jpg" alt="Protocol Messages" width="700">
 </div>
 
-- **[Overall Attack Sketch.jpg](Images/Overall-Attack-Sketch.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
+- **[Overall Attack Sketch.jpg](Images/Overall-Attack-Sketch.jpg)**: A comprehensive depiction of the attack is presented in this figure.
 <div align="center">
     <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
 </div>
