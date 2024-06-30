@@ -37,7 +37,7 @@ The repository is organized as follows:
 
 
 ### [Code for each node](Code%20for%20each%20node)
-We have comprehensively implemented the attacks to demonstrate the feasibility of the proposed key-recovery attack. The implementation code for the key recovery attacks, as detailed in subsections 'Secret Disclosure Attack' in the ULBRAP protocol, is written for each node (**[reader.ipynb](Code%20for%20each%20node/reader.ipynb)**, **[supply.ipynb](Code%20for%20each%20node/supply.ipynb)**, **[tag.ipynb](Code%20for%20each%20node/tag.ipynb)**) in Python.
+The implementation code for the key recovery attacks, as detailed in subsections 'Secret Disclosure Attack' in the ULBRAP protocol, is written for each node (**[reader.ipynb](Code%20for%20each%20node/reader.ipynb)**, **[supply.ipynb](Code%20for%20each%20node/supply.ipynb)**, **[tag.ipynb](Code%20for%20each%20node/tag.ipynb)**) in Python.
 
 
 ### [Images](Images)
