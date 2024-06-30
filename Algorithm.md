@@ -27,7 +27,7 @@ with 5313 possible candidates for $(S_O)$, saved in list $L_{S_O}$.
 <img src="https://github.com/nargesmokhtari/ULBRAP-Protocol/assets/126694721/7d69ce19-5281-4baf-89b4-872e66a2f2ce" alt="Step 1" width="500"/>
 
 ### Step 5
-Assuming the Balance amount as a network value, along with 161 candidates of $IDN_S \oplus IDN_T$ and 5313 candidates of $S_O$ obtained in Steps 3 and 4, respectively, we will have $161 \times 5313$ potential candidates for $TK_{ST}$. Among these candidates, the key satisfying $Eq:S_G$ will match the candidate key. Consequently, this step will require $2 \times (161 \times 5313)$ hash calculations.
+Assuming the Balance amount as a network value, along with 161 candidates of $IDN_S \oplus IDN_T$ and 5313 candidates of $S_O$ obtained in Steps 3 and 4, respectively, we will have $161 \times 5313$ potential candidates for $TK_{ST}$. Among these candidates, the key satisfying $S_G$ will match the candidate key. Consequently, this step will require $2 \times (161 \times 5313)$ hash calculations.
 
 <img src="https://github.com/nargesmokhtari/ULBRAP-Protocol/assets/126694721/fb5a42e6-67e1-46d2-932f-48cd76ed02a1" alt="Step 1" width="500"/>
 
