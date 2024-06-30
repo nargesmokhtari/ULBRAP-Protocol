@@ -1,4 +1,4 @@
-# Deriving $TK_{ST}$
+# Deriving $TK_{ST}$ Algorithm
 
 ## Algorithm 1 Description
 ### Step 1
