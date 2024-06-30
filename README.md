@@ -39,11 +39,6 @@ The repository is organized as follows:
 ### [Code for each node](Code%20for%20each%20node)
 We have comprehensively implemented the attacks to demonstrate the feasibility of the proposed key-recovery attack. The implementation code for the key recovery attacks, as detailed in subsections 'Secret Disclosure Attack' in the ULBRAP protocol, is written for each node (**[reader.ipynb](Code%20for%20each%20node/reader.ipynb)**, **[supply.ipynb](Code%20for%20each%20node/supply.ipynb)**, **[tag.ipynb](Code%20for%20each%20node/tag.ipynb)**) in Python.
 
-- **[reader.ipynb](Code%20for%20each%20node/reader.py)**: Description of what node1.py does.
-- **[supply.ipynb](Code%20for%20each%20node/supply.py)**: Description of what node2.py does.
-- **[tag.ipynb](Code%20for%20each%20node/tag.py)**: Description of what node3.py does.
-
-We have comprehensively implemented the attacks to demonstrate the feasibility of the proposed key-recovery attack. The implementation code for the key recovery attacks, as detailed in subsections 'Secret Disclosure Attack' in the ULBRAP protocol, is written for each node ([reader.py](https://github.com/nargesmokhtari/ULBRAP-Protocol/blob/main/Code%20for%20each%20node/reader.ipynb), [supply.py](https://github.com/nargesmokhtari/ULBRAP-Protocol/blob/main/Code%20for%20each%20node/supply.ipynb), [tag.py](https://github.com/nargesmokhtari/ULBRAP-Protocol/blob/main/Code%20for%20each%20node/tag.ipynb)) in Python.
 
 ### [Images](Images)
 This directory holds image files used within the project.
