@@ -43,6 +43,7 @@ We have comprehensively implemented the attacks to demonstrate the feasibility o
 - **[supply.ipynb](Code%20for%20each%20node/supply.py)**: Description of what node2.py does.
 - **[tag.ipynb](Code%20for%20each%20node/tag.py)**: Description of what node3.py does.
 
+We have comprehensively implemented the attacks to demonstrate the feasibility of the proposed key-recovery attack. The implementation code for the key recovery attacks, as detailed in subsections 'Secret Disclosure Attack' in the ULBRAP protocol, is written for each node ([reader.py](https://github.com/nargesmokhtari/yourrepo/blob/main/Code%20for%20each%20node/reader.py), [supply.py](https://github.com/nargesmokhtari/yourrepo/blob/main/Code%20for%20each%20node/supply.py), [tag.py](https://github.com/nargesmokhtari/yourrepo/blob/main/Code%20for%20each%20node/tag.py)) in Python.
 
 ### [Images](Images)
 This directory holds image files used within the project.
