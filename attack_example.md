@@ -17,7 +17,7 @@ $MESG1$: From Reader to Tag.
 - $CH_R$: 0xe0582a582ec916a24c4afea237cOd3ff72693438.
 - $TI_R$: 0xafd62668.
 
-$ MESG2$: From Tag to Reader.
+$MESG2$: From Tag to Reader.
 - $CH_T$: 0x133e3a1be92825fd89cad9312e059544d325e079.
 - $Aut_R$: 0x18196f1ab4171d389355b3f67345fb62e1697069.
 - $P_T$: 0x2195b51083eaa5828251a29f8c988ed237a0dadd.
