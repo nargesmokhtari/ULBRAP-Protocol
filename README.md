@@ -62,7 +62,7 @@ This code demonstrates secret disclosure attacks within an acceptable complexity
 The process of identifying, capturing, and maintaining the records of all activities related to a particular event or transaction. In ULBRAP Protocol, The adversary could trace the result of XOR-ed identifiers of the tag (IDNT) and the supply chain node (IDNS) by eavesdropping on the messages sent in two sessions. MESG1 and MESG2 allow the attacker to obtain 161 candidate values for the result of XORing IDNT and IDNS. In the second session, with different timestamps and random values but the same identifiers for the Tag and Supply chain, we again have 161 possible candidates for the result of XOR-ed identifiers of the tag (IDNT) and the supply chain node (IDNS). By checking the intersection of these two lists, we can determine the actual value of the result of XOR-ed IDNT and IDNS.
 
 ## [Algorithm](Algorithm.md)
-The session key $TK_{ST}$ recovery process consists of five main steps, detailed in the following Algorithm.
+The session key $TK_{ST}$ recovery process consists of five main steps, detailed in the following [Algorithm](Algorithm.md).
 
 ## Contributions
 
