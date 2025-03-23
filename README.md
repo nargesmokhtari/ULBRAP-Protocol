@@ -49,12 +49,17 @@ The implementation code for the key recovery attacks, as detailed in subsections
 This directory holds image files used within the project.
 
 - **[IoT-based Supply Chain System](Images/IoT-based-Supply-Chain-System.jpg)**: An IoT-based supply chain system integrates components: RFID tags, readers, sensors, and communication networks.
+
 - **[Protocol Messages](Images/Protocol-Messages.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
 <div align="center">
     <img src="./Images/Protocol Messages.jpg" alt="Protocol Messages" width="700">
 </div>
 
-- **[Overall One-session Attack Sketch](Images/Overall-Attack-Sketch.jpg)**: A comprehensive depiction of the attack on one session of the protocol is presented in this figure.
+- **[Overall One-session Attack Sketch](Images/Overall-Attack-Sketch.jpg)**: A comprehensive depiction of the attack on one session of the protocol, in multi session condition is presented in this figure.
+
+- **[Overall Multi-session Attack Sketch](Images/Multi-session-sketch.svg)**: An overview of the multi session attack on the protocol is presented in this figure.
+
+- **[Overall Multi-attacker Scenario Sketch](Images/Multi-attacker-skectch.svg)**: An overview of the multi attacker scenario of the protocol is presented in this figure.
 
 ### [attack_ulbraps_text.py](attack_ulbraps_text.py)
 This code demonstrates secret disclosure attacks within an acceptable complexity threshold to retrieve the session key (TKST). As discussed in the paper, if the balance amount (BalN) is a secret parameter and represents a unique value for the target Tag, the ULBRAP protocol is vulnerable to desynchronization attacks. Consequently, in this implementation attack, we assume that the BalN is known within the network, highlighting the protocol's susceptibility to a secret disclosure attack.
@@ -90,7 +95,7 @@ Furthermore, we took it a step further and applied the attack in a multi-session
     <img src="./Images/Multi session sketch.svg" alt="Overall Multi-Session Attack Sketch" width="500">
 </div>
 
-### Disrupting Another Attacker's Scenario  
+### Disrupting Another Attacker's Scenario (Multi attacker) 
 
 Finally, we implemented a two-attacker scenario, where one attacker is active, and the other is passive. The active attacker sabotages the session key recovery process by impersonating tag #2 and sending a random string as message 2 in the ULBRAP protocol. This disrupts the protocol, causing it to stop and preventing the passive attacker from sniffing other messages. As a result, the passive attacker fails to recover the session key.  
 
