@@ -52,7 +52,7 @@ This directory holds image files used within the project.
 
 - **[Protocol Messages](Images/Protocol-Messages.jpg)**: Message transfer between nodes was facilitated using Python socket programming.
 <div align="center">
-    <img src="./Images/Protocol Messages.jpg" alt="Protocol Messages" width="700">
+    <img src="./Images/Protocol-Messages.jpg" alt="Protocol Messages" width="700">
 </div>
 
 - **[Overall One-session Attack Sketch](Images/Overall-Attack-Sketch.jpg)**: A comprehensive depiction of the attack on one session of the protocol, in multi session condition is presented in this figure.
