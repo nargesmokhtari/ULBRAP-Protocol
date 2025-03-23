@@ -22,19 +22,21 @@ The repository is organized as follows:
 
 ```plaintext
 .
-├── Code for each node
-│   ├── attack.ipynb
-│   ├── reader.ipynb
-│   ├── supply.ipynb
-│   └── tag.ipynb
-├── Images
-│   ├── IoT-based Supply Chain System.jpg
-│   ├── Overall Attack Sketch.jpg
-│   └── Protocol Messages.jpg
 ├── Algorithm.md
-├── attack_example.md
-├── README.md
+├── attack_example_one_session.md
 ├── attack_ulbraps_text.py
+├── Code for each node
+│   ├── attack.ipynb
+│   ├── reader.ipynb
+│   ├── supply.ipynb
+│   └── tag.ipynb
+├── Images
+│   ├── IoT-based Supply Chain System.jpg
+│   ├── Multi attacker skectch.svg
+│   ├── Multi session sketch.svg
+│   ├── Overall Attack Sketch.jpg
+│   └── Protocol Messages.jpg
+├── README.md
 └── traceability_ulbraps.py
 ```
 
