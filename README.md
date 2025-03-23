@@ -84,7 +84,7 @@ We have implemented a one-session key recovery attack on the ULBRAP protocol usi
 
 - **[Overall One-Session Attack Sketch](Images/Overall-Attack-Sketch.jpg)**: This figure provides a comprehensive depiction of the attack on a single session of the protocol.  
 <div align="center">
-    <img src="./Images/Overall Attack Sketch.jpg" alt="Overall Attack Sketch" width="500">
+    <img src="./Images/Overall-Attack-Sketch.jpg" alt="Overall Attack Sketch" width="500">
 </div>
 
 ### Multi-Session Key Recovery Attack  
@@ -92,7 +92,7 @@ We have implemented a one-session key recovery attack on the ULBRAP protocol usi
 Furthermore, we took it a step further and applied the attack in a multi-session scenario involving two tags and readers connected within a single supply chain. You can access the video of this attack [here](https://drive.google.com/file/d/1FMMIb4HW9x1hVsUu5o3GAdY3WNu8TjGP/view?usp=sharing).  
 
 <div align="center">
-    <img src="./Images/Multi session sketch.svg" alt="Overall Multi-Session Attack Sketch" width="500">
+    <img src="./Images/Multi-session-sketch.svg" alt="Overall Multi-Session Attack Sketch" width="500">
 </div>
 
 ### Disrupting Another Attacker's Scenario (Multi attacker) 
@@ -102,7 +102,7 @@ Finally, we implemented a two-attacker scenario, where one attacker is active, a
 The video of this scenario is available [here](https://drive.google.com/file/d/11tZvboCqF7LRLyAIHCPP_aw--3bzmfSx/view?usp=sharing).  
 
 <div align="center">
-    <img src="./Images/Multi attacker skectch.svg" alt="Overall Multi-Attacker Scenario Sketch" width="500">
+    <img src="./Images/Multi-attacker-skectch.svg" alt="Overall Multi-Attacker Scenario Sketch" width="500">
 </div>
 
 
