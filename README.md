@@ -113,6 +113,6 @@ The video of this scenario is available [here](https://drive.google.com/file/d/1
 -  Introduce a secure authentication protocol that is suitable for lightweight IoT devices in 5G communication networks to solve ULBRAP issues.
 
 ## Videos
-A video demonstrating the one session attack and the process of finding the session key is available at this [link]([https://drive.google.com/file/d/1pns3RpqtFBVC2AzzYCEh7WSZFBS97YhP/view?usp=sharing](https://drive.google.com/file/d/1HqF7aASL0UcmH0kUWEZ7a6mQCYXFKjQU/view?usp=drive_link)).
+A video demonstrating the one session attack and the process of finding the session key is available at this [link](https://drive.google.com/file/d/1HqF7aASL0UcmH0kUWEZ7a6mQCYXFKjQU/view?usp=drive_link).
 
 Also, the multi session attack and multi attacker scenario videos is avaiable at [here: multi session](https://drive.google.com/file/d/1yjJi8FYsKF1CNI6vZsh2H2LMNqqXQ6QB/view?usp=drive_link), and [here: multi attacker](https://drive.google.com/file/d/1kY6uoUysAqtDgxW6Xf_cyZppeccyGYZB/view?usp=drive_link), respectively.
